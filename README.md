@@ -42,4 +42,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 simply open the index file in your browser and if you can see this you are doing good
 
-![ops! something it's not ok](assets/images/screenshots.png)
+![ops! something it's not ok](assets/images/test.png)
